@@ -40,7 +40,7 @@ A beautifully crafted personal finance management app inspired by Apple's intuit
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/finance-tracker.git
+git clone https://github.com/DeepseekAI-sketch/PocketBudget-Pal.git
 cd finance-tracker
 
 # Install dependencies
