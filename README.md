@@ -3,6 +3,7 @@
 A beautifully crafted personal finance management app inspired by Apple's intuitive design and Dieter Rams' minimalism. This application helps you track your income, expenses, and financial insights with ease.
 
 ![image](https://github.com/user-attachments/assets/7300e3fd-53f2-4721-9ba5-428f16a5daf2)
+
 ![image](https://github.com/user-attachments/assets/69b336e4-6060-4b8f-b941-57f5446a85e5)
 
 
